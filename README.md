@@ -2,7 +2,7 @@
 Fast-as-frick Python Youtube Music Downloader
 ## You need to install FFmpeg from [FFmpeg.org](https://www.ffmpeg.org/).
 
-place ffmpeg.exe / ffplay.exe / ffprobe.exe with the files .
+> place ffmpeg.exe / ffplay.exe / ffprobe.exe with the files .
 <br>
 `
   Copy video link from youtube then run MAIN.py to execute the file, a CMD window will appear and start downloading your mp3 file. `<br>
